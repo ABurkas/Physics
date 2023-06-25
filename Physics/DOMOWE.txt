@@ -1,0 +1,6 @@
+wykres y(t) Vy(t) dt=.01s
+y = 230
+g = -9.81
+
+AGAIN
+wykres y(t) Vy(t) dt=0.1s
